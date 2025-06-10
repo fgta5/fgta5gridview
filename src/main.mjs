@@ -1,9 +1,9 @@
-import Gridview from './components/gridview.mjs';
+import Gridview from './components/GridView.mjs';
 
 
 
 const Fgta5 = {
-	Gridview: Gridview,
+	GridView: Gridview,
 }
 
 
